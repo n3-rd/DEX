@@ -315,7 +315,7 @@ export default function Home() {
                 <Container maxW="1440px" mx="auto">
                     <Box my={10}>
                         <Flex align="center" gap={10}>
-                            <Box w="full" h="56" bg="green.400" />
+                            <Box w="full" h="56" bg="transparent" />
                             <TransactionCard />
                         </Flex>
                         <OrderTable />
